@@ -9,7 +9,7 @@ Run:
     python run_load_check.py
 """
 
-from src.run_load_data import load_all
+from src.load_data import load_all
 from src.preprocess import prepare
 
 
