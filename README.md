@@ -43,7 +43,7 @@ scikit-learn; nothing is stored in the repository.
 
 - [x] Project scaffolding
 - [x] Dataset loading and preprocessing
-- [x ] PCA experiment (fit, sweep k, reconstruct)
-- [x ] Metrics (MSE, PSNR, SSIM, explained variance)
-- [x ] Optimal-k analysis (threshold + elbow)
-- [x ] Rate–distortion plots and final report
+- [x] PCA experiment (fit, sweep k, reconstruct)
+- [x] Metrics (MSE, PSNR, SSIM, explained variance)
+- [x] Optimal-k analysis (threshold + elbow)
+- [x] Rate–distortion plots and final report
