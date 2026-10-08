@@ -25,6 +25,6 @@ Thumbs.db
 *.npz
 *.h5
 
-# Keep the results folders but ignore their contents
-results/figures/*.png
-results/tables/*.csv
+# (Kept: results are committed so figures are visible on GitHub)
+# results/figures/*.png
+# results/tables/*.csv
